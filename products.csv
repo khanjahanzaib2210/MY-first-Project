@@ -1,0 +1,8 @@
+pid,name,description,price,image,rating
+1,Wireless Headphones,Over-ear Bluetooth headphones with noise cancellation.,99.99,https://example.com/images/headphones.jpg,4.5
+2,Smartphone,Latest model smartphone with 128GB storage and a high-quality camera.,699.99,https://example.com/images/smartphone.jpg,4.7
+3,Laptop,15-inch laptop with Intel i7 processor and 16GB RAM.,1299.99,https://example.com/images/laptop.jpg,4.6
+4,Smartwatch,Fitness tracker with heart rate monitor and GPS.,199.99,https://example.com/images/smartwatch.jpg,4.3
+5,Bluetooth Speaker,Portable speaker with 12 hours of battery life.,49.99,https://example.com/images/speaker.jpg,4.4
+p12,laptop,hp core i5,1002.0,laptop.png,4.5
+p12,mobile,iphone 13 pro max,10000.0,iphone.png,4.3
